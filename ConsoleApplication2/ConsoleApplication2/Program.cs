@@ -12,7 +12,7 @@ namespace ConsoleApplication2
         {
             string a;
             Console.WriteLine("Hello World");
-            a=a.Console.ReadLine();
+            
             
         }
     }
